@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+/home/vsm/CLionProjects/KISS/Matrix.hpp
+cmath
+-
+
+/home/vsm/CLionProjects/KISS/main.cpp
+iostream
+-
+Matrix.hpp
+/home/vsm/CLionProjects/KISS/Matrix.hpp
+queue
+-
+

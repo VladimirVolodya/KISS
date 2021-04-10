@@ -1,0 +1,1 @@
+/usr/bin/c++ -g CMakeFiles/KISS.dir/main.cpp.o -o KISS 
